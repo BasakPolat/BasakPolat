@@ -1,11 +1,11 @@
 Hi, This is Basak👋
 
 
-🌱 I’m a Software Test Engineer
-🔭 I’m currently working on coding
-💬 Ask me about Java, Lambda, Selenium, SDLC, STLC,HTML-CSS, PostgreSQL, JDBC, API, Jenkins, Cucumber...
-📫 How to reach me: basakdpolat@gmail.com
-⚡ Fun fact: I love coding and to learn new language
+- 🌱 I’m a Software Test Engineer
+- 🔭 I’m currently working on coding
+- 💬 Ask me about Java, Lambda, Selenium, SDLC, STLC,HTML-CSS, PostgreSQL, JDBC, API, Jenkins, Cucumber...
+- 📫 How to reach me: basakdpolat@gmail.com
+- ⚡ Fun fact: I love coding and to learn new language
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
