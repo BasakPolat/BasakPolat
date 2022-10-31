@@ -1,9 +1,5 @@
-### Hi there 👋
+Hi, This is Basak👋
 
-<!--
-**BasakPolat/BasakPolat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 🌱 I’m a Software Test Engineer
 🔭 I’m currently working on coding
